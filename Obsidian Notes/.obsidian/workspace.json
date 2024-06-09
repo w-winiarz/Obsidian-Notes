@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d7472d369f189f8f",
+        "id": "f8a004a882f13005",
         "type": "tabs",
         "children": [
           {
-            "id": "b874306709f6b140",
+            "id": "95f41cf0bb61e954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strona tytułowa.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4e2cb3bee53a7d2b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2d36f10719706ba",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strona tytułowa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Strona tytułowa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Strona tytułowa.md"
               }
             }
           },
@@ -168,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b874306709f6b140",
+  "active": "95f41cf0bb61e954",
   "lastOpenFiles": [
+    "Dieta.md",
+    "Strona tytułowa.md",
     "Welcome.md"
   ]
 }
