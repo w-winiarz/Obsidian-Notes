@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Strona tytułowa.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,8 +156,8 @@
   },
   "active": "95f41cf0bb61e954",
   "lastOpenFiles": [
+    "Welcome.md",
     "Dieta.md",
-    "Strona tytułowa.md",
-    "Welcome.md"
+    "Strona tytułowa.md"
   ]
 }
